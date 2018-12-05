@@ -13,4 +13,4 @@ export default class Cities extends React.Component {
             </View>
         )
     }
- }
+}

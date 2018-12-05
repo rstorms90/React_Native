@@ -13,4 +13,4 @@ export default class AddCity extends React.Component {
             </View>
         )
     }
- }
+}

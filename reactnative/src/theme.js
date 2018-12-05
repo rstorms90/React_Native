@@ -1,5 +1,5 @@
 const colors = {
-    primary: 'steelblue'
+    primary: 'Steelblue'
 }
 
 export {
